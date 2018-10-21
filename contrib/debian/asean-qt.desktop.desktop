@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Asean
+Comment=Asean P2P Cryptocurrency
+Exec=asean-qt %u
+Terminal=false
+Type=Application
+Icon=asean128
+MimeType=x-scheme-handler/asean;
+Categories=Office;Finance;
+Name[en_US]=asean-qt.desktop
